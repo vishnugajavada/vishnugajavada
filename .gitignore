@@ -1,0 +1,14 @@
+# Temporary source checkouts used while capturing the portfolio screenshots.
+project-src/
+
+# Disposable headless browser profiles used for screenshot capture.
+assets/ffprofile/
+assets/ffprofile2/
+
+# Temporary capture helpers (the PNG files are the publishable assets).
+assets/screenshots/cricket-preview.html
+capture_screenshots.py
+build_cricket_preview.py
+inspect_cricket.py
+cleanup-capture.ps1
+process-snapshot.ps1
